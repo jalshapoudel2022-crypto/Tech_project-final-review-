@@ -1,16 +1,70 @@
-# Introduction to GitHub
+# Study Habits and Academic Performance
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## 1. About the Project
 
-Hey jalshapoudel2022-crypto!
+This project explores the relationship between students' study hours and their academic performance. It uses basic data analysis techniques and Python to investigate whether the number of hours students study is related to their grades.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## 2. Research Question
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Is there a relationship between the number of hours students study and their academic grades?
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/jalshapoudel2022-crypto/Tech_project-final-review-/issues/1)
+## 3. Dataset
 
----
+The dataset was obtained from Kaggle.
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+It contains three main variables:
+- `student_id`: Unique identification number for each student.
+- `study_hours`: Number of hours spent studying.
+- `grade`: Academic grade obtained by the student.
+
+A sample of 10 student records was used for this analysis.
+
+**Dataset source:** [Insert your Kaggle dataset link here]
+
+## 4. Tools and Technologies
+
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
+- NumPy
+- GitHub
+
+## 5. Methods Used
+
+The following methods were used:
+- Data exploration
+- Checking for missing values and duplicate records
+- Calculating mean and median
+- Calculating range and standard deviation
+- Creating a scatter plot
+- Calculating correlation
+
+## 6. Key Findings
+
+The analysis produced the following results:
+
+| Measurement | Result |
+|---|---:|
+| Number of students | 10 |
+| Average study hours | 7.17 |
+| Average grade | 68.28 |
+| Correlation | 0.55 |
+
+The correlation indicates a moderate positive relationship between study hours and grades in the selected sample.
+
+## 7. Limitations
+
+- Only 10 students were analysed.
+- The dataset contains limited variables.
+- Correlation does not prove causation.
+- The findings may not represent the entire student population.
+
+## 8. Conclusion
+
+The analysis suggests that students who studied for more hours generally tended to achieve higher grades in the selected sample. However, other factors may also influence academic performance.
+
+## 9. Author
+
+Created as a school data science project.
 
