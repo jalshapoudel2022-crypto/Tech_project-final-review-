@@ -52,13 +52,13 @@ The analysis produced the following results:
 | Average grade | 68.28 |
 | Correlation | 0.55 |
 
-Correlation Analysis
+Correlation Analysis:
 The correlation coefficient for study hours and grades was   0.55, indicating a moderate positive relationship in the selected sample of 10 students. This suggests that students who studied for more hours generally tended to achieve higher grades. However, this does not prove that studying longer directly causes higher grades. Since the analysis uses only 10 students, the findings may not represent the entire dataset.
 
-Average Analysis
+Average Analysis:
 The average study time among the 10 selected students was 7.17 hours, while their average grade was 68.28 out of 100. This gives us a general overview of the study habits and academic performance within the selected sample. However, these averages only represent the 10 students included in this analysis.
 
-Median Analysis
+Median Analysis:
 The median study time was 7.275 hours, while the median grade was 65.555. This means that the middle values of the two variables were 7.275 hours and 65.555 marks. The median helps describe the typical middle value without being heavily affected by unusually high or low values.
 What do these numbers mean?
 Median study hours (7.275): Half of the students studied for less than or equal to 7.275 hours, while the other half studied for more than or equal to this amount.
