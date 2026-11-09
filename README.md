@@ -19,7 +19,8 @@ It contains three main variables:
 
 A sample of 10 student records was used for this analysis.
 
-**Dataset source:** [Insert your Kaggle dataset link here]
+**Dataset source:** [ https://www.kaggle.com/datasets/andreylss/study-hours-vs-grades-dataset
+]
 
 ## 4. Tools and Technologies
 
